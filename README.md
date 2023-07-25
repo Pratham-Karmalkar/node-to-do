@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # node-to-do
 To-Do-List for implementing CRUD operations with MongoDB using NodeJS. 
 =======
@@ -16,3 +17,7 @@ npm install
 node app.js |or| nodemon app.js
 ```
 >>>>>>> 1581783 (To-do 1.0)
+=======
+# node-to-do
+To-Do-List for implementing CRUD operations with MongoDB using NodeJS. 
+>>>>>>> da34128b99f11ff2db6172c7f0d30370632258c0
